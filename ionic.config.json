@@ -1,0 +1,7 @@
+{
+  "name": "scroll-assist-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
